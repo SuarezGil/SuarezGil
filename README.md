@@ -96,12 +96,6 @@ Desarrollando soluciones escalables, APIs REST y aplicaciones web modernas.
 
 ---
 
-# 📈 GitHub
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SuarezGil&theme=github_dark)
-
----
-
 # 📫 Contacto
 
 📧 Correo: **iossg8@gmail.com**
