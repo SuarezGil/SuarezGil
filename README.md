@@ -2,7 +2,7 @@
 <h3 align="center">Desarrollador Full Stack | Java & Spring Boot | React | Node.js</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Siempre+aprendiendo+nuevas+tecnologías" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Iosef+Su%C3%A1rez+Gil;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas" alt="Typing SVG" />
 </p>
 
 ---
@@ -71,11 +71,8 @@ Actualmente continúo fortaleciendo mis conocimientos en arquitectura de softwar
 ## 📊 Estadísticas
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SuarezGil&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuarezGil&layout=compact&theme=tokyonight"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SuarezGil&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuarezGil&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -83,9 +80,7 @@ Actualmente continúo fortaleciendo mis conocimientos en arquitectura de softwar
 ## 🔥 Racha de contribuciones
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SuarezGil&theme=tokyonight"/>
-
+  <img src="https://streak-stats.demolab.com?user=SuarezGil&theme=tokyonight" />
 </p>
 
 ---
